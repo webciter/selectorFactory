@@ -21,7 +21,7 @@
 /**
  * Description
  *
- * @module Title
+ * @module SelectorFactory
  */
 var SelectorFactory = {
   version: '1.0.0'
