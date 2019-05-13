@@ -1,0 +1,24 @@
+{
+  "name": "selector_factory",
+  "version": "1.0.0",
+  "description": "Create a new class selector from two or more class or id selectors.",
+  "main": "selectorFactory.js",
+  "dependencies": {
+   "element-functions-get_css_rules": "1.0.0"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webciter/selectorFactory.git"
+  },
+  "keywords": [
+    "selector","class","id","combine"
+  ],
+  "author": "David Clews",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webciter/selectorFactory/issues"
+  },
+  "homepage": "https://github.com/webciter/selectorFactory#readme"
+}
