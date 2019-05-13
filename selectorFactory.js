@@ -37,7 +37,7 @@ var SelectorFactory = {
   
     /* base62
      * 
-     * Convert string to base 64 and reverse
+     * Convert string to base 62 and reverse
      */
     var base62 = {
     charset: '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
