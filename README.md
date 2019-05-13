@@ -1,7 +1,7 @@
 # selectorFactory
 Combine class and id selector rule to create a new class selector.
 
-A simple module to combine two or more selectors into a single selector and return the selector of the new class
+A simple module to combine two or more selectors into a single selector and return the selector of the new class. This could be used to reduce the amount of classes applied to a element, or to create a ramdom class name on each page load to make it more difficult for aggregators.
 
 <h2>Require</h2>
 
@@ -17,7 +17,7 @@ npm i selector_factory
 
 Combine
 <pre>
-window.selectorFactory.combine([".bg-secondary",".bg-primary"]).then(function(data){
+window.selectorFactory.combine([".text-primary",".bg-primary"]).then(function(data){
    data.newSelectorName; // holds the newly created class name
 });  
 </pre>
