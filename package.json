@@ -13,7 +13,7 @@
     "url": "git+https://github.com/webciter/selectorFactory.git"
   },
   "keywords": [
-    "selector","class","id","combine"
+    "selector","class","id","combine","join"
   ],
   "author": "David Clews",
   "license": "MIT",
