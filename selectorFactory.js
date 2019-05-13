@@ -15,7 +15,7 @@
 }(this, function () {
 
 /* selectorFactory.js 1.0.0
- * Copyright © 2017 David Clews
+ * Copyright © 2019 David Clews
  * MIT Licence.
  */
 /**
